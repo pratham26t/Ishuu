@@ -60,7 +60,5 @@ else:
         use_container_width=True
     )
 
-    # 🎵 Music (plays after YES)
-    st.audio("love.mp3", loop=True)
-
     st.markdown("<h3 style='text-align:center;'>Best Valentine Ever 💘</h3>", unsafe_allow_html=True)
+
